@@ -2,7 +2,7 @@
 [Demo](https://pvlchupryna.github.io/Sup/)
 <table>
     <tr>
-        <td  style="vertical-align: top;">
+        <td valign="top" style="vertical-align: top;">
             <h4>Technologies:</h4>
             <p>
                 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
