@@ -1,0 +1,63 @@
+@import url(../css/normalize.css);
+@import url(../fonts/stylesheet.css);
+
+@import url(./srctions/header.css);
+@import url(./srctions/info.css);
+@import url(./srctions/buy.css);
+@import url(./srctions/technology.css);
+@import url(./srctions/footer.css);
+
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+:root {
+    --color-yellow: #B9C400;
+    --color-white: #fff;
+    --color-dark: #262C27;
+    --color-turquoise: #0093A1; 
+    --transition: all 0.3s ease; 
+}
+body {
+  font-family: 'Inter';
+  font-size: normal;
+  font-weight: regular;
+  font-size: 18px;
+  line-height: 22px;
+  color: var(--color-dark);
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+h1, h2, h3, h4, h5, h6, p{
+  margin: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+img{
+  object-fit: cover;
+}
+.title{
+  font-weight: 400;
+  text-transform: uppercase;
+  font-family: 'Comfortaa', cursive;
+  font-size: 60px;
+  line-height: 67px;
+}
+.container{
+  max-width: 1230px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.btn{
+  color: var(--color-white);
+  font-family: 'Comfortaa', cursive;
+  font-weight: 700; 
+  line-height: 22px;
+  text-transform: uppercase;
+  border: none;
+  transition: var(--transition);
+}
