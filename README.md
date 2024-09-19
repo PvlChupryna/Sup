@@ -1,6 +1,5 @@
 # Sup
-[Demo]([https://pvlchupryna.github.io/Lidia/](https://pvlchupryna.github.io/Sup/))
-
+[Demo](https://pvlchupryna.github.io/Sup/)
 <table>
     <tr>
         <td valign="top" style="vertical-align: top;">
